@@ -1,0 +1,10 @@
+Output: Mixed Sim
+Type  : AdvSimNetlist
+From  : Project [Free Documents]
+   Generated File[CD4060BM_硬件定时器.nsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:57:37 On 2013/11/13 星期三

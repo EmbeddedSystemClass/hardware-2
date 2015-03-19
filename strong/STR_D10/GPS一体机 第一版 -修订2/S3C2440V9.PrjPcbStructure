@@ -1,0 +1,41 @@
+Record=SheetSymbol|SourceDocument=系统电路.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=INTERFACE.sch|SymbolType=Normal|RawFileName=INTERFACE.sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=系统电路.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=GPS总图.SchDoc|SymbolType=Normal|RawFileName=GPS总图.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=系统电路.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=外围电路.SchDoc|SymbolType=Normal|RawFileName=外围电路.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=系统电路.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Cores.SchDoc|SymbolType=Normal|RawFileName=Cores.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=系统电路.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=MAIN POWER.SchDoc|SymbolType=Normal|RawFileName=MAIN POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=系统电路.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Core.SchDoc|SymbolType=Normal|RawFileName=Core.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=外围电路.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=05-CAN.sch|SymbolType=Normal|RawFileName=05-CAN.sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=外围电路.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=07-LCD.Sch|SymbolType=Normal|RawFileName=07-LCD.Sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=外围电路.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=06-RS485.sch|SymbolType=Normal|RawFileName=06-RS485.sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Cores.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=LVDS.SchDoc|SymbolType=Normal|RawFileName=LVDS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Cores.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Cores POWER.SchDoc|SymbolType=Normal|RawFileName=Cores POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Cores.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=蜂鸣器.SchDoc|SymbolType=Normal|RawFileName=蜂鸣器.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Cores.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=USB Host.SchDoc|SymbolType=Normal|RawFileName=USB Host.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Cores.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=USB Device.SchDoc|SymbolType=Normal|RawFileName=USB Device.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Cores.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=RESET.SchDoc|SymbolType=Normal|RawFileName=RESET.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Cores.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=IIC.SchDoc|SymbolType=Normal|RawFileName=IIC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Cores.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=指示灯.SchDoc|SymbolType=Normal|RawFileName=指示灯.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Cores.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=按键接口.SchDoc|SymbolType=Normal|RawFileName=按键接口.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Cores.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=RTC.SchDoc|SymbolType=Normal|RawFileName=RTC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Cores.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=JTAG.SchDoc|SymbolType=Normal|RawFileName=JTAG.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SubProject|ProjectPath=_80
+Record=SubProject|ProjectPath=_504
+Record=SubProject|ProjectPath=_504
+Record=SubProject|ProjectPath=_409
+Record=SubProject|ProjectPath=_409
+Record=SubProject|ProjectPath=_504
+Record=SubProject|ProjectPath=_504
+Record=SubProject|ProjectPath=_504
+Record=SubProject|ProjectPath=_504
+Record=SubProject|ProjectPath=_504
+Record=SheetSymbol|SourceDocument=Core.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=03-FLASH.Sch|SymbolType=Normal|RawFileName=03-FLASH.Sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Core.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=ARM POWER.SchDoc|SymbolType=Normal|RawFileName=ARM POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Core.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=04-MEM.Sch|SymbolType=Normal|RawFileName=04-MEM.Sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Core.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=02-CPU2.Sch|SymbolType=Normal|RawFileName=02-CPU2.Sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Core.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=01-CPU1.Sch|SymbolType=Normal|RawFileName=01-CPU1.Sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=GPS总图.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=BAT POWER.SchDoc|SymbolType=Normal|RawFileName=BAT POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=GPS总图.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=GPS POWER.SchDoc|SymbolType=Normal|RawFileName=GPS POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=GPS总图.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=14-GPS.SchDoc|SymbolType=Normal|RawFileName=14-GPS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=GPS总图.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=13-GPRS.SchDoc|SymbolType=Normal|RawFileName=13-GPRS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=GPS总图.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=12-MSP430.SchDoc|SymbolType=Normal|RawFileName=12-MSP430.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=系统电路.SchDoc

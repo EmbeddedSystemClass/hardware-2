@@ -1,0 +1,20 @@
+Record=SheetSymbol|SourceDocument=Main.Sch|Designator=CAN|SchDesignator=CAN|FileName=05-CAN.sch|SymbolType=Normal|RawFileName=05-CAN.sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.Sch|Designator=CPU1|SchDesignator=CPU1|FileName=01-CPU1.Sch|SymbolType=Normal|RawFileName=01-CPU1.Sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.Sch|Designator=CPU2|SchDesignator=CPU2|FileName=02-CPU2.Sch|SymbolType=Normal|RawFileName=02-CPU2.Sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.Sch|Designator=CPU3|SchDesignator=CPU3|FileName=03-CPU3.Sch|SymbolType=Normal|RawFileName=03-CPU3.Sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.Sch|Designator=Interface|SchDesignator=Interface|FileName=08-INTERFACE.sch|SymbolType=Normal|RawFileName=08-INTERFACE.sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.Sch|Designator=LCD|SchDesignator=LCD|FileName=07-LCD.Sch|SymbolType=Normal|RawFileName=07-LCD.Sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.Sch|Designator=Power|SchDesignator=Power|FileName=09-POWER.sch|SymbolType=Normal|RawFileName=09-POWER.sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.Sch|Designator=RS485|SchDesignator=RS485|FileName=06-RS485.sch|SymbolType=Normal|RawFileName=06-RS485.sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.Sch|Designator=SDRAM|SchDesignator=SDRAM|FileName=04-MEM.sch|SymbolType=Normal|RawFileName=04-MEM.sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SubProject|ProjectPath=_504
+Record=SubProject|ProjectPath=_504
+Record=SubProject|ProjectPath=_504
+Record=SubProject|ProjectPath=_504
+Record=SubProject|ProjectPath=_504
+Record=SubProject|ProjectPath=_504
+Record=SubProject|ProjectPath=_504
+Record=SubProject|ProjectPath=_409
+Record=SubProject|ProjectPath=_409
+Record=SubProject|ProjectPath=_80
+Record=TopLevelDocument|FileName=Main.Sch

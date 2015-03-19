@@ -1,0 +1,34 @@
+
+1. 板层		2层
+2. 板厚		1.6mm
+3. 铜厚 	35um
+4. 板材		FR-4
+
+5. 表面处理	喷锡
+6. 阻焊颜色	哑绿
+7. 字符颜色	白色
+8. 字符层面	（无）
+
+9. 拼版		自由处理
+10.附加工艺边	（无）
+
+11.数量         10套
+
+
+Gerber File:
+GTP	Top Paste Mask	
+GTO	Top Overlay		顶层 字符层
+GTS	Top Solder Mask		顶层 阻焊层
+
+GTL	Top Layer		1 顶层
+
+GBL	Bottom Layer		2 底层
+
+GBS	Bottom Solder Mask	底层 阻焊层
+GBO	Bottom Overlay
+GBP	Bottom Paste Mask
+	
+APR	APERTURE LIST
+DRR	DRILL REPORT
+DRL	DRILL FILE
+TXT	EXCELLON DRILL

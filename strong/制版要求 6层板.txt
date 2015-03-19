@@ -1,0 +1,37 @@
+
+1. 板层		6层
+2. 板厚		1.6mm
+3. 铜厚 	35um
+4. 板材		FR-4
+
+5. 表面处理	沉金
+6. 阻焊颜色	哑绿
+7. 字符颜色	白色
+8. 字符层面	T&B
+
+9. 拼版		无
+10.附加工艺边	加5mm V-CUT
+
+11.制版数量     10
+
+12.机械尺寸 GM1   机械层 1
+Gerber File:
+GTP	Top Paste Mask	
+GTO	Top Overlay		顶层 字符层
+GTS	Top Solder Mask		顶层 阻焊层
+
+GTL	Top Layer		1 顶层
+GP1	Internal Plane 1	2 内电层1
+G1	Mid Layer 1		3 中间层ADDR
+G2	Mid Layer 2	        4 中间层DATA
+GP3	Internal Plane 3	5 内电层3
+GBL	Bottom Layer		6 底层
+
+GBS	Bottom Solder Mask	底层 阻焊层
+GBO	Bottom Overlay
+GBP	Bottom Paste Mask
+	
+APR	APERTURE LIST
+DRR	DRILL REPORT
+DRL	DRILL FILE
+TXT	EXCELLON DRILL
