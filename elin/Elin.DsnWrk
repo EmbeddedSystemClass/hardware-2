@@ -1,12 +1,38 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=Cabinet_Device\Cabinet.PrjPCB
-[Project2]
 ProjectPath=Cabinet_Host\PCB_Project1.PrjPCB
-[Project3]
-ProjectPath=Social_Security\Social_Security_PRJ.PrjPcb
-[Project4]
+[Project2]
 ProjectPath=CAN×ÜÏß´íÎó¼ì²â\Can.PrjPcb
-[Project5]
+[Project3]
 ProjectPath=PKE\PKE_T.PrjPcb
+[Project4]
+ProjectPath=PT2262&PT2272\PT2262&PT2272.PrjPcb
+[Project5]
+ProjectPath=Social_Security\Social_Security_PRJ.PrjPcb
+[Project6]
+ProjectPath=Social_Security_Master\V2.4\Social_Security_Master V2.4.PrjPcb
+[Project7]
+ProjectPath=Social_Security_Master\V2.3\Social_Security_Master V2.3.PrjPcb
+[Project8]
+ProjectPath=Social_Security_Master\V2.2\Social_Security_Master V2.2.PrjPcb
+[Project9]
+ProjectPath=Social_Security_Master\V2.1 28J60\Social_Security_Master V2.1.PrjPcb
+[Project10]
+ProjectPath=Social_Security_Router\V2.2\Router V2.2.PrjPcb
+[Project11]
+ProjectPath=Social_Security_Router\V2.1\Router V2.1.PrjPcb
+[Project12]
+ProjectPath=Social_Security_Router\V2.0\Router V2.0.PrjPcb
+[Project13]
+ProjectPath=Social_Security_Terminal\V1.3 CAN\SecurityTerminalV1.3.PrjPCB
+[Project14]
+ProjectPath=Social_Security_Terminal\V1.2.1 USB\SecurityTerminalV1.2.1.PrjPCB
+[Project15]
+ProjectPath=Social_Security_Terminal\V1.2 USB\SecurityTerminalV1.2.PrjPCB
+[Project16]
+ProjectPath=Social_Security_Terminal\V1.1 485\SecurityTerminalV1.1.PrjPCB
+[Project17]
+ProjectPath=Cabinet_Device\Cabinet_Device.PrjPCB
+[Project18]
+ProjectPath=Cabinet_Host\Cabinet_Host.PrjPCB
